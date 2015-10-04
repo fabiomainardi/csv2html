@@ -1,0 +1,18 @@
+City,lon,lat,Infrastructure_Index,Country,Quality_of_Life_Index,CPI-4,CPI-5,Environmental_Index,ukey,Productivity_Index,Equity_Index
+Vienna,16.374,48.208,0.996,Austria,0.882,0.936,0.925,0.932,Austria-Vienna,0.939,0.883
+New York,-74.006,40.713,0.994,United States,0.866,0.934,0.825,0.941,United States-New York,0.94,0.502
+Toronto,-79.383,43.653,0.997,Canada,0.907,0.934,0.89,0.963,Canada-Toronto,0.874,0.733
+London,-0.100,51.520,0.997,United Kingdom,0.898,0.934,0.904,0.92,United Kingdom-London,0.923,0.793
+Stockholm,18.070,59.330,0.995,Sweden,0.925,0.934,0.898,0.921,Sweden-Stockholm,0.896,0.767
+Helsinki,24.940,60.170,0.997,Finland,0.905,0.933,0.924,0.944,Finland-Helsinki,0.89,0.89
+Dublin,-6.250,53.330,0.996,Ireland,0.867,0.929,0.913,0.958,Ireland-Dublin,0.901,0.85
+Oslo,10.750,59.910,0.997,Norway,0.914,0.929,0.924,0.939,Norway-Oslo,0.87,0.903
+Paris,2.340,48.860,0.996,France,0.925,0.927,0.897,0.895,France-Paris,0.895,0.788
+Tokyo,139.770,35.670,0.989,Japan,0.931,0.925,0.905,0.936,Japan-Tokyo,0.85,0.828
+Melbourne,144.960,-37.810,0.996,Australia,0.875,0.925,0.903,0.967,Australia-Melbourne,0.867,0.82
+Auckland,174.763,-36.848,0.994,New Zealand,0.889,0.922,0.862,0.958,New Zealand-Auckland,0.854,0.657
+Amsterdam,4.890,52.370,0.995,Netherlands,0.872,0.915,0.895,0.933,Netherlands-Amsterdam,0.866,0.818
+Zurich,8.542,47.377,0.997,Switzerland,0.858,0.914,0.884,0.941,Switzerland-Zurich,0.868,0.772
+Copenhagen,12.568,55.676,0.997,Denmark,0.871,0.911,0.913,0.928,Denmark-Copenhagen,0.855,0.922
+Brussels,4.330,50.830,0.997,Belgium,0.864,0.91,0.883,0.922,Belgium-Brussels,0.862,0.783
+Barcelona,2.1734034999999494,41.3850639,0.995,Spain,0.912,0.909,0.876,0.908,Spain-Barcelona,0.829,0.755
